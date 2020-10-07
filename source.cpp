@@ -4,7 +4,7 @@ int USCLN(int a, int b)
 }
 void hello()
 {
-	
+	ccbn
 	cout<<"Hello";
 }
 int tru(int a, int b)
